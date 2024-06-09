@@ -5,4 +5,5 @@ read a
 echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
-
+echo "hi ashutosh how are you"
+echo "Above is a test meassge"
